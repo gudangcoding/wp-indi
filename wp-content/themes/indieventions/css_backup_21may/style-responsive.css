@@ -1,0 +1,171 @@
+@charset "utf-8";
+/* matatu : CSS Responsive Document */
+/* design by sanjib on 18.02.2016 */
+
+@media screen and (max-width : 320px) {
+/* ..............................cart page start................................. */
+.right_i > h3 {
+    color: #3176b5;
+    font-size: 12px;
+    margin: 0;
+    padding-left: 10px;
+}
+.col-lg-3.price > h4 {
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+}
+.main_que {
+    float: left;
+    height: auto;
+    margin: 0;
+    width: 100%;
+}
+.main_total > h4 {
+    color: #3176b5;
+    font-size: 12px;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+.plus {
+    float: left;
+    height: auto;
+    margin-left: 2px;
+    text-align: center;
+    width: 100%;
+}
+.l_1 {
+    float: left;
+    height: auto;
+    width: 100%;
+}
+.minus {
+    float: left;
+    height: auto;
+    text-align: center;
+    width: 100%;
+}
+.order_wrapper .order_wrap {
+    float: left;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+/* ..............................cart page start................................. */
+}
+@media screen and (min-width: 321px) and (max-width: 479px) { 
+/* ..............................cart page start................................. */
+.right_i > h3 {
+    color: #3176b5;
+    font-size: 12px;
+    margin: 0;
+    padding-left: 10px;
+}
+.col-lg-3.price > h4 {
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+}
+.main_que {
+    float: left;
+    height: auto;
+    margin: 0;
+    width: 100%;
+}
+.main_total > h4 {
+    color: #3176b5;
+    font-size: 12px;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+.plus {
+    float: left;
+    height: auto;
+    margin-left: 2px;
+    text-align: center;
+    width: 100%;
+}
+.l_1 {
+    float: left;
+    height: auto;
+    width: 100%;
+}
+.minus {
+    float: left;
+    height: auto;
+    text-align: center;
+    width: 100%;
+}
+.order_wrapper .order_wrap {
+    float: left;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+/* ..............................cart page start................................. */
+
+}
+
+@media screen and (min-width: 480px) and (max-width: 767px) { 
+/* ..............................cart page start................................. */
+.right_i > h3 {
+    color: #3176b5;
+    font-size: 12px;
+    margin: 0;
+    padding-left: 10px;
+}
+.col-lg-3.price > h4 {
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+}
+.main_que {
+    float: left;
+    height: auto;
+    margin: 0;
+    width: 100%;
+}
+.main_total > h4 {
+    color: #3176b5;
+    font-size: 12px;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+.plus {
+    float: left;
+    height: auto;
+    margin-left: 2px;
+    text-align: center;
+    width: 100%;
+}
+.l_1 {
+    float: left;
+    height: auto;
+    width: 100%;
+}
+.minus {
+    float: left;
+    height: auto;
+    text-align: center;
+    width: 100%;
+}
+.order_wrapper .order_wrap {
+    float: left;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+/* ..............................cart page start................................. */
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) { 
+
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) { 
+
+}
+
